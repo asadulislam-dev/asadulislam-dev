@@ -1,8 +1,5 @@
 
-<p align="center">
-  <img src="./bannerimage.jfif" alt="Asadul Islam Banner" width="100%">
-</p>
-
+<img src="./banner.jpg" alt="Asadul Islam Banner" width="100%" />
 
 # Hi there 👋, I'm Asadul Islam
 
