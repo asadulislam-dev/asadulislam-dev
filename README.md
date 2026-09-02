@@ -1,3 +1,9 @@
+
+<p align="center">
+  <img src="./bannerimage.jfif" alt="Asadul Islam Banner" width="100%">
+</p>
+
+
 # Hi there 👋, I'm Asadul Islam
 
 ### 💻 Web Developer | Frontend Developer | JavaScript Enthusiast
